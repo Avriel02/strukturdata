@@ -1,0 +1,2 @@
+
+            cin >> ya_tidak;
